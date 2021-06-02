@@ -1,6 +1,6 @@
 <h1 align="center">Yahootz</h1>
 
-Tabela de conteúdos
+✨Tabela de conteúdos
 =================
 <!--ts-->
    * [Nome do Projeto](#nome)
